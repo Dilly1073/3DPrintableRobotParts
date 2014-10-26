@@ -1,7 +1,7 @@
 #FIRST Team 1073's Robot 3D Printable Robot Parts
 
 
-These files are parts that we print out with our <a href="http://makerbot.com">Makerbot 3D Printer</a>. Having a 3D printer for FIRST Robotics makes it easy for us to quickly prototype parts, save man power by delegating the manufacturing of complicated parts to our printer, and to quickly make an abdundance of backup parts.
+These files are parts that we print out with our <a href="http://www.solidoodle.com">Solidoodle 3D Printer</a>. Having a 3D printer for FIRST Robotics makes it easy for us to quickly prototype parts, save man power by delegating the manufacturing of complicated parts to our printer, and to quickly make an abdundance of backup parts.
 
 ##Modularity
 The majority of these parts are agnostic to any particular robot, we hope that thay may be of use to your team and if you have any questions feel free to ask!
